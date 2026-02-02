@@ -1,0 +1,12 @@
+
+A/B Testing Final Recommendation
+
+Control Conversion Rate: 0.30
+Test Conversion Rate: 0.68
+P-value: 0.00032
+
+Decision: Reject Null Hypothesis
+
+Business Recommendation:
+The test group performs significantly better.
+The new version should be implemented.
