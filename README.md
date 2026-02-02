@@ -118,5 +118,3 @@ The **test version performs significantly better** than the control version.
 * Interpreting p-values and confidence intervals
 * Translating statistical results into business decisions
 
-**Sneha Singh**
-Data Analyst Intern
